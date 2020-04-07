@@ -6,13 +6,11 @@ body{
 	line-height: 30px;
 }
 
-/* header styles */
-
 header{
 	background-color: #5DADE2;
 	text-align: center;
 	padding-top: 50px;
-	padding-bottom: 50px;
+	padding-bottom: 30px;
 }
 
 h1, h2{
@@ -21,11 +19,11 @@ h1, h2{
 
 header h1{
 	color: white;
-	font-size: 70px;
+	font-size: 80px;
 }
 
 header img{
-	border-radius: 200px;
+	border-radius: 300px;
     border: 15px solid white; 
 }
 
@@ -43,7 +41,7 @@ main img{
 h2{
 	font-size: 40px;
 	color: #5DADE2;
-	margin: 40px 0 10px;
+	margin: 40px 0 20px;
 }
 
 a{
